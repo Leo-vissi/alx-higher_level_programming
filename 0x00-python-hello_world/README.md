@@ -1,8 +1,7 @@
 # 0x00. Python - Hello, World
-_____________________________________________________________________________________
-# Requirements
-*************************************************************************************
-  Python Scripts
+
+
+# Python Scripts
       - Allowed editors: vi, vim, emacs
       - All your files will be interpreted/compiled on 
         Ubuntu 20.04 LTS using python3 (version 3.8.5)
@@ -14,7 +13,8 @@ ________________________________________________________________________________
       - Your code should use the pycodestyle (version 2.8.*)
       - All your files must be executable
       - The length of your files will be tested using wc
-  Shell Scripts
+
+# Shell Scripts
       - Allowed editors: vi, vim, emacs
       - All your scripts will be tested on Ubuntu 20.04 LTS
       - All your scripts should be exactly two lines 
@@ -22,7 +22,8 @@ ________________________________________________________________________________
       - All your files should end with a new line
       - The first line of all your files should be exactly #!/bin/bash
       - All your files must be executable
-  C Scripts
+
+# C Scripts
       - Allowed editors: vi, vim, emacs
       - All your files will be compiled on Ubuntu 20.04 LTS using gcc, 
         using the options -Wall -Werror -Wextra -pedantic -std=gnu89
@@ -40,7 +41,7 @@ ________________________________________________________________________________
         header file called lists.h
       - Don’t forget to push your header file
       - All your header files should be include guarded
-*************************************************************************************
+
 # Tasks
 
 0. Run Python file
@@ -94,21 +95,21 @@ ________________________________________________________________________________
 6. Play with strings
    Complete this source code to print Welcome to Holberton School!
 
-           You can find the source code here
-           You are not allowed to use any loops or conditional statements.
-           You have to use the variables str1 and str2 in your new line of code
-           Your program should be exactly 5 lines long
+           - You can find the source code here
+           - You are not allowed to use any loops or conditional statements.
+           - You have to use the variables str1 and str2 in your new line of code
+           - Your program should be exactly 5 lines long
 
 7. Copy - Cut - Paste
    Complete this source code
 
-           You can find the source code here
-           You are not allowed to use any loops or conditional statements
-           Your program should be exactly 8 lines long
-           word_first_3 should contain the first 3 letters of the variable word
-           word_last_2 should contain the last 2 letters of the variable word
-           middle_word should contain the value of the variable word without 
-           the first and last letters
+           - You can find the source code here
+           - You are not allowed to use any loops or conditional statements
+           - Your program should be exactly 8 lines long
+           - word_first_3 should contain the first 3 letters of the variable word
+           - word_last_2 should contain the last 2 letters of the variable word
+           - middle_word should contain the value of the variable word without 
+             the first and last letters
 
 8. Create a new sentence
    Complete this source code to print object-oriented programming with Python,
